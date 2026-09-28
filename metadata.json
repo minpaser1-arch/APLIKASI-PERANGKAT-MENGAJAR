@@ -1,0 +1,6 @@
+{
+  "name": "Sistem MI-KBC - Kurikulum Merdeka & Berbasis Cinta Madrasah Ibtidaiyah",
+  "description": "Platform resmi panduan, perangkat ajar, generator modul terpadu 11 mapel, rubrik 3 lapis, dan instrumen Kurikulum Berbasis Cinta (KBC) untuk Madrasah Ibtidaiyah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
